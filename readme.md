@@ -2,8 +2,6 @@
 
 You should be familiar with NodeJS, to understand this tutorial.
 
-For a better layout, head over to the presentation page: http://mazdeh.github.io/express/
-
 ### What is Express?
 Minimal “unopinionated” web framework
 Thin layer over core Node.js http module
@@ -168,7 +166,8 @@ This concludes our discussion of some of the basic concepts of Express.js. It is
 
 
 ## Run Locally
-``` git clone https://github.com/mazdeh/express.git
+```
+git clone https://github.com/mazdeh/express.git
 cd express
 npm install
 node app.js
