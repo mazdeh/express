@@ -168,6 +168,12 @@ This concludes our discussion of some of the basic concepts of Express.js. It is
 
 
 ## Run Locally
+``` git clone https://github.com/mazdeh/express.git
+cd express
+npm install
+node app.js
+```
+Then head over to `localhost://3000/users` to see the dummy data. Anyone can now send a request to your server and get that data back. Pretty powerful!
 
 Stay tuned for the next tutorial, on how to use this express server to power our previous Backbone tutorial.
 
